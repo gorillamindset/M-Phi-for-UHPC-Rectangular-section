@@ -1,4 +1,4 @@
-# Moment-Curvature-analysis-for-UHPC-Rectangular-section
+# Moment-Curvature-for-UHPC-Rectangular-section
 
 
 Method adopted for analysis is Fiber section mtd or Layer by layber method. In this method Entire section is divided into multiple layers and then each layer is analysed and corresponding strains, stresses, forces are calculated.
