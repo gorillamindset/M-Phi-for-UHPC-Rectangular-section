@@ -17,7 +17,11 @@ In the Bilinear analytical method, fcte and fctl are the stress points where ela
    
 For calculation of Compressive stresses in the concrete, Unlike IS code method or conventional Hognestad’s curve, we are using UHPC stress-strain curve obtained after various testings. Graph adopted is shwn as below:
 Fcm is mean targetted or max strength of UHPC. RI is the reinforcement index which is a function of fiber reinforcement.
+
 Corresponding points are found and then used in the layer by layer analysis in the calculaton of compressive stresses in the concrete.
+
+![image](https://github.com/gorillamindset/Moment-Curvature-analysis-for-UHPC-Rectangular-section/assets/138226552/fb9d1824-3d1d-4114-8607-3bc8990acbe1)
+
 
 The basic idea is to plot the Moment v/s Curvature of the given beam section. For calculation of moment capacity we need internal forces in the UHPC and the steel reinforcement. They are function of Xu ( Neutral axis depth). 
 Calculation of Xu is the only rigorous task which includes multiple iterations for attaining the force equilibrium in the section.
