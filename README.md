@@ -3,9 +3,17 @@
 
 Method adopted for analysis is Fiber section mtd or Layer by layber method. In this method Entire section is divided into multiple layers and then each layer is analysed and corresponding strains, stresses, forces are calculated.
 Rect beam section is as below:
+
+
+![image](https://github.com/gorillamindset/Moment-Curvature-analysis-for-UHPC-Rectangular-section/assets/138226552/8a11b4b1-22e2-4408-932b-7fb3ca539da6)
+
                   
 To calculate the Tensile stresses in the concrete, UHPC BiLinear model is considered in the analysis. Stress-Strain curve is shown ass below:
 In the Bilinear analytical method, fcte and fctl are the stress points where elastic and loalization stresses are calculated using constitutive relations obtained from testing. Corresponding strains ecte and ectl are further used to determine where exactly the material is localised while applying the loads.
+
+
+![image](https://github.com/gorillamindset/Moment-Curvature-analysis-for-UHPC-Rectangular-section/assets/138226552/db0be4e3-4700-427b-afe6-a7ca38199c0f)
+
    
 For calculation of Compressive stresses in the concrete, Unlike IS code method or conventional Hognestad’s curve, we are using UHPC stress-strain curve obtained after various testings. Graph adopted is shwn as below:
 Fcm is mean targetted or max strength of UHPC. RI is the reinforcement index which is a function of fiber reinforcement.
