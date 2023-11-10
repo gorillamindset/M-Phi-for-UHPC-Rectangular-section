@@ -20,7 +20,7 @@ Fcm is mean targetted or max strength of UHPC. RI is the reinforcement index whi
 
 Corresponding points are found and then used in the layer by layer analysis in the calculaton of compressive stresses in the concrete.
 
-![image](https://github.com/gorillamindset/Moment-Curvature-analysis-for-UHPC-Rectangular-section/assets/138226552/fb9d1824-3d1d-4114-8607-3bc8990acbe1)
+
 
 
 The basic idea is to plot the Moment v/s Curvature of the given beam section. For calculation of moment capacity we need internal forces in the UHPC and the steel reinforcement. They are function of Xu ( Neutral axis depth). 
